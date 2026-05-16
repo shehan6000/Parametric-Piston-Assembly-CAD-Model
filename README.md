@@ -1,11 +1,6 @@
 # Parametric Piston Assembly CAD Model
 
 A multi-component parametric CAD model and motion assembly of an internal combustion engine piston mechanism. Built using top-down design principles, this project demonstrates clean sketching, structural component modeling, fastener integration, and mechanical joint assignment.
-
----
-
-
-
 ---
 
 ## Component Breakdowns & Modeling Workflow
